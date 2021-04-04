@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'GOTHIC';
+    src: url('../fonts/GOTHIC.eot');
+    src: url('../fonts/GOTHIC.eot') format('embedded-opentype'),
+         url('../fonts/GOTHIC.woff2') format('woff2'),
+         url('../fonts/GOTHIC.woff') format('woff'),
+         url('../fonts/GOTHIC.ttf') format('truetype'),
+         url('../fonts/GOTHIC.svg#GOTHIC') format('svg');
+}
+@font-face {
+    font-family: 'GOTHICB';
+    src: url('../fonts/GOTHICB.eot');
+    src: url('../fonts/GOTHICB.eot') format('embedded-opentype'),
+         url('../fonts/GOTHICB.woff2') format('woff2'),
+         url('../fonts/GOTHICB.woff') format('woff'),
+         url('../fonts/GOTHICB.ttf') format('truetype'),
+         url('../fonts/GOTHICB.svg#GOTHICB') format('svg');
+@font-face {
+    font-family: 'slick';
+    src: url('../fonts/slick.eot');
+    src: url('../fonts/slick.eot') format('embedded-opentype'),
+         url('../fonts/slick.woff2') format('woff2'),
+         url('../fonts/slick.woff') format('woff'),
+         url('../fonts/slick.ttf') format('truetype'),
+         url('../fonts/slick.svg#slick') format('svg');
+}
