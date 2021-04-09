@@ -44,7 +44,9 @@ body{
   border-radius: 20px;
   position: absolute;
   width: 700px;
-  z-index: -1;
+  z-index: 0;
+  width: 700px;
+  height: 150px;
 }
 .two{
   z-index: 2;
