@@ -52,13 +52,13 @@ body{
   z-index: 2;
 }
 h3{
-  font-family: 'LEMON MILK';
+  font-family: 'Lemon Bold';
   font-weight: bold;
   font-size: 50px;
   margin: 0;
 }
 p{
-  font-family: 'Avenir LT Std';
+  font-family: 'Avenir Regular';
   font-size: 20px;
 }
 .col{
